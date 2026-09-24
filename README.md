@@ -2,8 +2,7 @@
 
 ## Correr
 
-Los archivos originales de la ENEIC (`.xlsx`, uno por trimestre) van en `data/raw/` — no se
-versionan por tamaño. Se necesitan los cuatro trimestres de 2025 y el primer trimestre de 2026.
+Los archivos originales de la ENEIC (`.xlsx`, uno por trimestre) van en `data/raw/`- por tamaño no estan en el repositorio. Se necesitan los cuatro trimestres de 2025 y el primer trimestre de 2026.
 
 ```bash
 python -m venv venv
