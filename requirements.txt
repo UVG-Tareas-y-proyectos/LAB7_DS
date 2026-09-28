@@ -1,5 +1,6 @@
 pyspark==3.5.1
-pandas
+setuptools
+pandas<3
 openpyxl
 numpy
 matplotlib
